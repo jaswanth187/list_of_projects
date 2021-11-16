@@ -2,3 +2,6 @@ Responsive Portfolio
 Upi to cash exchange
 dice game
 Trading bot
+Jarvis on mobile
+Haircut recommandation(According to their face cut and hair style)
+Omegle clone 
